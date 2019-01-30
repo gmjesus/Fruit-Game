@@ -14,3 +14,5 @@ Grade 11 High School Project - The Fruit Game
   fruit they would want to remove, and how many to remove from the pile.
   Once there are no fruit left, the game will end. Whoever took the last
   turn will win the game.
+
+NOTE: Requires hsa.console class in order to compile as the graphics was made using the console class
